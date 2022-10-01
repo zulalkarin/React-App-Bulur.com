@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    background-color:#EDEDED;
+    padding: 25px 80px ;
+    
+}
+
+.searching{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+    background-color:#EDEDED;
+    padding: 100px 80px ;
+    
+}
+
+.searching h1{
+    text-align: center;
+    color: rgb(85, 82, 82);
+    transition: 0.3s ease-in-out;
+    font-family: Georgia, 'Times New Roman', Times, serif;        
+}
+
+
+
+
+

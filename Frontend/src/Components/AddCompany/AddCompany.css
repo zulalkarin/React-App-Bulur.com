@@ -1,0 +1,50 @@
+
+#AddCompanyContainer{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    background-color:#67BC47;
+    padding: 25px 80px ;
+    
+    
+}
+
+#açıklama{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#9feb83;
+    padding: 10px 10px ;
+    height:30%;
+    width: 30%;
+    
+}
+
+#açıklama p{
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: rgb(80, 87, 94);
+    transition: 0.3s ease-in-out;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#açıklama h2{
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(80, 87, 94);
+}
+
+#py-4{
+    background-color:#9feb83;
+    height:40%;
+    width: 40%;
+    padding: 2%;
+    position:relative;
+}
+
+#button1{
+    background-color: #67BC47;
+}
+
+
+
+
